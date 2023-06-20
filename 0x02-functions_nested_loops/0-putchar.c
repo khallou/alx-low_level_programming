@@ -1,7 +1,9 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
-	 * is written by khallou
+	 * main - Entry point of the program
+	 *
+	 * Description : printing the string "_putchar" followed by a new line character.
+	 *
 	 * Return: 0 for successful execution
 	 */
 
