@@ -1,8 +1,8 @@
 #include "main.h"
 	/**
-	 * main - Entry point 
-	 * 
-	 * Return: 0 for duccessful execution
+	 * main - print _putchar
+	 * is written by khallou
+	 * Return: 0 for successful execution
 	 */
 
 
