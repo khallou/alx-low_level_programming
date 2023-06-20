@@ -1,5 +1,10 @@
 #ifndef main_h
 	#define main_h
+	/**
+	 * mai- all fuction is listed
+	 * is written by khallou
+	 * Return: 0
+	 */
 
 
 	int _putchar(char);
